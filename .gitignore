@@ -25,6 +25,20 @@ bin/
 
 ### VS Code ###
 .vscode/
+# IntelliJ IDEA files
+.idea/
+*.iml
+out/
+gen/
 
+# Compiled Java files
+*.class
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
 ### Mac OS ###
 .DS_Store
